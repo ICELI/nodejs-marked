@@ -1,0 +1,9 @@
+{
+  "name": "marked-demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "marked": "^0.3.3"
+  }
+}
+
